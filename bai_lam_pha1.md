@@ -3,7 +3,7 @@
 - **Mã đề:** 04
 - **Họ tên:Trần Văn Gia Khang**
 - **Lớp:CNTT1**
-- **Link repository Pha1:**
+- **Link repository Pha1: https://github.com/tranvangiakhang-lab/HCM_KS26_CNTT1_PromptAI_H02**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
@@ -147,7 +147,7 @@ Trạm 1 – ĐỊNH DẠNG ĐẦU RA, trả về chỉ một đối tượng JS
 
 ### b) Hai điều cần kiểm tra ở JSON đầu ra của Trạm 1
 
-1. (Viết câu trả lời vào đây – xoá dòng này)
+1. 
 
 2.
 
